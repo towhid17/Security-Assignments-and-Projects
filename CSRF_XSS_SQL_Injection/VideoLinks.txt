@@ -1,0 +1,3 @@
+1. CSRF: https://drive.google.com/file/d/1sk5SN-SPoH_hUB4M2LwYfczBxKIPPj_j/view?usp=sharing
+2. XSS: https://drive.google.com/file/d/1XSaZ4ewuYgqP-KTQqxWbG8PyRhiaZxno/view?usp=sharing
+3. SQL injection: https://drive.google.com/file/d/1iCaAqG1MIvExAFwX6F2r9vv3R8z7yk1E/view?usp=sharing
